@@ -1,20 +1,16 @@
 # Overview
-{Provide a description of your software}
+This is a simple program to display the message "Hello World".
 
-{Describe your purpose for creating this software.}
+The purpose of this program is to study and document the integration of different tools, such as git, GitHub, VSCode, Python, etc. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video - COMING SOON](...)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+To develop this software I used Python 3.8.5 and VSCode.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Python](https://www.python.org)
+* [Git](https://git-scm.com/)
